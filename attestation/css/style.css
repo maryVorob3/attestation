@@ -1,0 +1,342 @@
+@font-face{
+    font-family:"Poppins";
+    src :url(../fonts/Poppins-Regular.ttf);
+    font-weight: 400;
+}
+@font-face{
+    font-family: "Poppins";
+    src: url(../fonts/Poppins-Bold.ttf);
+    font-weight: 700;
+}
+@font-face{
+    font-family:"Jost";
+    src: url(../fonts/Jost-Regular.ttf)
+    font-weight: 400
+}
+@font-face{
+    font-family: "Jost";
+    src: url(../fonts/Jost-Bold.ttf);
+    font-weight: 700;
+}
+body{
+    color: #383838
+    font-style: normal;
+    width: 100vw;
+    height: 100vh;
+}
+html{
+    font-size: 24px;
+    list-style: 36px;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 36px
+}
+a{
+    text-decoration: none;
+}
+.header{
+    justify-content: space-between;
+    height: 300px;
+    padding: 70px;
+    display:flex
+}
+.headMen{
+    display: flex;
+    justify-content: space-between;
+    width: 60vw;
+    list-style-type: none;
+}
+heaDer{
+    
+}
+.headmen{
+    color:#686565 ;
+    list-style-type: none;
+}
+.logo{
+   font-weight: 700; 
+   font-size: 2rem;
+   line-height: 2rem;
+   color: #0E0578;
+}
+html, body{
+    height: 100%;
+}
+.welcome{
+    margin: 0px 0px 0px 75px;
+    color: #2000E7;
+    font-size: 30px;
+    column-count: 2;
+}
+
+h2.stev{
+letter-spacing: normal; 
+}
+.Designer{
+color: #F2BD00
+}
+.stev{
+    color: #2000E7;
+    font-size: 48px;
+}
+.hf{
+    color: #383838;
+    font-size: 24px;
+}
+.ht{
+    color: #000000;
+    font-size: 24px;
+    text-align: left;
+}
+.hv{
+    font-size: 24px;
+    text-align: center;
+    color: #000000;
+}
+.project{
+    column-count: 3;
+    column-width: 246px;
+    margin-left: 108px;
+}
+.inform_me{
+    color: #2000E7;
+    font-size: 48px;
+    column-count: 2;
+    margin: 0px 0px 0px 75px;
+    font-family: Poppins;
+
+
+}
+.Contacts{
+    color: #220BE8;
+    font-size: 64px;
+    background: rgba(67, 186, 253, 0.06);
+    font-family: Poppins;
+}
+.my_project{
+    color: #3B1FEA;   
+    font-size: 48px;
+    font-family: Poppins;
+    background: rgba(255, 214, 150, 0.20);
+}
+
+h5{
+    color: #0E0578;
+    font-family: "Poppins";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 16.8px;
+    margin-left: 66px ;
+}
+h2{
+    color: #2000E7;
+    font-family: "Poppins Regular";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+ h3{
+    color: #2000e7;
+    font-size: 48px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    letter-spacing: 17.28px;
+}
+.BW{
+   
+
+}
+ button{
+    border-radius: 10px;
+    border-style: none;
+    box-shadow: 11px 21px 15px 6px rgba(0, 0, 0, 0.25);
+    width: 246px;
+    color: #FFF;
+    height: 72px;
+    font-family: "Poppins";
+    font-size: 24px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-left: 26px;
+    border-radius: 30px;
+    background: #000;
+   
+}
+  .sub{
+    border-radius: 30px;
+    background: #F965FC;
+}
+ .menu_ul{
+    list-style: none;
+}
+  .menu_ul li{
+    color: #000;
+    font-family: "Jost Regular";
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    padding: 20px;
+  }
+  
+  .Menu1{
+     margin-top: 120px;
+     width: 160px;
+    }
+  .Menu2{
+    margin-top: 120px;
+    width: 305px;
+  }
+  .Menu3{
+    margin-top: 120px;
+    width: 316px;
+}
+  .Menu2 h6, .Menu3 h6{
+        color: #000;
+        font-family: "Jost Bold";
+        font-size: 31px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        padding: 0 40px 40px 20px;
+    }
+   .Menu1 h6{
+        color: #000;
+        font-family: "Jost Bold";
+        font-size: 31px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        padding: 0 40px 30px 20px;
+   }
+   
+    .column{
+       column-count: 3;
+    }
+    .UniDes{
+        column-count: 2;
+    }
+
+
+.ButtonB{
+    background: #2000e7;
+    color: #fff;
+}
+.ButtonW{
+   background: #f6f5fd;
+   color: #2000e7;
+   border: 2px solid #2000e7;
+   margin-left: 75px
+}
+.photo{
+    width: 600;
+}
+.img_me{
+    background: #f5fbff;
+    display: flex;
+    height: 910px;
+    justify-content: space-between;
+    align-items: center; 
+    margin-left: 66px;
+    background:#FFF ;
+
+}
+.employ_me{
+    background: #2000e7;
+    color: #fff;
+}
+h4{
+    text-align: center;
+    color: #2000E7;
+    font-family: "Poppins Bold";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 16.8px;
+}
+.cont{
+    text-align: center;
+    font-size: 64;
+    letter-spacing: 17.28px;
+}
+.imp{
+    margin-bottom: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: left; 
+    text-align: left;
+}
+.im_p{
+    column-count: 2;
+}
+input[type=text], input[type=password] {
+    border: none;
+    width: 630px;
+    height: 94px;
+    flex-shrink: 0;
+    background: #FFF;
+    box-shadow: 13px 21px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #000;
+    font-family: "Poppins Regular";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0 40px;
+}
+textarea {
+    border: none;
+    width: 630px;
+    height: 265px;
+    flex-shrink: 0;
+    background: #FFF;
+    box-shadow: 13px 21px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #000;
+    font-family: "Poppins Regular";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 20px 40px;
+}
+.CONT {
+    border: none;
+    cursor: pointer;
+    width: 327px;
+    height: 94px;
+    flex-shrink: 0;
+    background: #FFF;
+    box-shadow: 13px 21px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #000;
+    font-family: "Poppins Regular";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 20px 40px;
+    margin-left: 220px;
+}
+.img{
+    text-align: center;
+}
+.div{
+    margin-top: 108px;
+}
+footer{
+ background: rgba(255, 214, 150, 0.20) ;
+}
+.CopyRig{
+    color: #000;
+    font-family: Jost Regular;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 50px;
+    margin-left: 46px;
+}
