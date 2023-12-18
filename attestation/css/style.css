@@ -9,9 +9,9 @@
     font-weight: 700;
 }
 @font-face{
-    font-family:"Jost";
-    src: url(../fonts/Jost-Regular.ttf)
-    font-weight: 400
+    font-family: "Jost";
+    src: url(../fonts/Jost-Regular.ttf);
+    font-weight: 400; 
 }
 @font-face{
     font-family: "Jost";
@@ -19,14 +19,13 @@
     font-weight: 700;
 }
 body{
-    color: #383838
+    color: #383838;
     font-style: normal;
     width: 100vw;
     height: 100vh;
 }
 html{
     font-size: 24px;
-    list-style: 36px;
     font-family: Poppins;
     font-weight: 400;
     line-height: 36px
@@ -233,7 +232,7 @@ h2{
    margin-left: 75px
 }
 .photo{
-    width: 600;
+    width: 600px;
 }
 .img_me{
     background: #f5fbff;
@@ -261,7 +260,7 @@ h4{
 }
 .cont{
     text-align: center;
-    font-size: 64;
+    font-size: 64px;
     letter-spacing: 17.28px;
 }
 .imp{
